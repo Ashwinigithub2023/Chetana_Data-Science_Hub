@@ -1,0 +1,26 @@
+🚀 Excited to share my latest Data Science project: "Insurance Premium Prediction" 📊🤖
+
+🔍 Project Overview:
+In this project, I worked on predicting insurance premiums using a dataset containing information on age, gender, BMI, children, smoking habits, region, and expenses. The goal was to build a model that accurately estimates insurance expenses based on individual characteristics.
+
+💡 Key Tasks:
+- Data Exploration & Cleaning: Explored the dataset of 1338 rows and 7 columns, handling missing values, and ensuring data quality.
+
+- Visualization: Created visualizations to understand the relationships between different features and expenses. Check out the insightful line graphs, histograms, and bar charts!
+
+- Modeling: Applied Linear Regression to predict insurance expenses, achieving a solid R-squared of 0.60 on the test set.
+
+📈 Results:
+The model demonstrates a good fit to the data, providing valuable insights into the factors influencing insurance premiums. The Mean Squared Error (MSE) on the test set was 34498135.255386695
+ , and the R-squared was 0.76.
+
+👩‍💻 Technical Skills Showcased:
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization using Matplotlib and Seaborn
+- Machine Learning with Linear Regression
+- Model Evaluation and Interpretation
+
+🎯 Next Steps:
+Excited to further refine the model, explore additional algorithms, and enhance predictive accuracy. Always open to feedback and eager to learn more in the dynamic field of Data Science! 🚀
+
